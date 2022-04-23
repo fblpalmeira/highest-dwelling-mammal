@@ -4,7 +4,7 @@ An animation showing the movement of nine individuals of jaguar which were track
 
 - [Script `.R`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/highest-dwelling-mammal/blob/main/data/mammals_elevation2.png">
 
 References: 
 
